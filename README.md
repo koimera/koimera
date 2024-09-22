@@ -3,7 +3,6 @@
 <br/>
 
 **i'm experienced in Javascript, C#, and Python, with a few small experiences with Google-affiliated languages and the odd HTML, PHP, and CSS here and there.**
-**my interests are- annihilating my enemies, and demolishing hope <3**
 
 <br/>
 
